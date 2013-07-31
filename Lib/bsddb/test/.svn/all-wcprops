@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test
+END
+test_cursor_pget_bug.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_cursor_pget_bug.py
+END
+test_misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_misc.py
+END
+test_fileid.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_fileid.py
+END
+test_dbshelve.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_dbshelve.py
+END
+test_get_none.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_get_none.py
+END
+test_dbenv.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_dbenv.py
+END
+test_join.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_join.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/__init__.py
+END
+test_early_close.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_early_close.py
+END
+test_basics.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_basics.py
+END
+test_recno.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_recno.py
+END
+test_pickle.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_pickle.py
+END
+test_thread.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_thread.py
+END
+test_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_all.py
+END
+test_sequence.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_sequence.py
+END
+test_replication.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_replication.py
+END
+test_distributed_transactions.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_distributed_transactions.py
+END
+test_associate.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_associate.py
+END
+test_dbtables.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_dbtables.py
+END
+test_dbobj.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_dbobj.py
+END
+test_compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_compat.py
+END
+test_queue.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_queue.py
+END
+test_db.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_db.py
+END
+test_compare.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_compare.py
+END
+test_lock.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bsddb/test/test_lock.py
+END

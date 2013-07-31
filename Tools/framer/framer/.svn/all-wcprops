@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer
+END
+template.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/template.py
+END
+bases.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/bases.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/__init__.py
+END
+structparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/structparse.py
+END
+slots.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/slots.py
+END
+struct.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/struct.py
+END
+function.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/function.py
+END
+member.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/framer/framer/member.py
+END

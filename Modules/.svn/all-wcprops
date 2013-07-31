@@ -1,0 +1,755 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules
+END
+grpmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/grpmodule.c
+END
+svmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/svmodule.c
+END
+mathmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/mathmodule.c
+END
+_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ssl.c
+END
+unicodename_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/unicodename_db.h
+END
+tkappinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/tkappinit.c
+END
+bz2module.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/bz2module.c
+END
+dlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/dlmodule.c
+END
+rotatingtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/rotatingtree.c
+END
+_json.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_json.c
+END
+rotatingtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/rotatingtree.h
+END
+makesetup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/makesetup
+END
+_tkinter.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_tkinter.c
+END
+_curses_panel.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_curses_panel.c
+END
+cgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cgen.py
+END
+fpectlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/fpectlmodule.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/md5.c
+END
+sgimodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/sgimodule.c
+END
+yuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/yuv.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/md5.h
+END
+sre_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/sre_constants.h
+END
+getpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/getpath.c
+END
+timingmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/timingmodule.c
+END
+sre.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/sre.h
+END
+socketmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/socketmodule.c
+END
+nismodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/nismodule.c
+END
+mmapmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/mmapmodule.c
+END
+datetimemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/datetimemodule.c
+END
+almodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/almodule.c
+END
+_heapqmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_heapqmodule.c
+END
+socketmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/socketmodule.h
+END
+_localemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_localemodule.c
+END
+_lsprof.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_lsprof.c
+END
+xxmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/xxmodule.c
+END
+makexp_aix
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/makexp_aix
+END
+dbmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/dbmmodule.c
+END
+sha512module.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/sha512module.c
+END
+_bsddb.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_bsddb.c
+END
+gdbmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/gdbmmodule.c
+END
+unicodedata.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/unicodedata.c
+END
+shamodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/shamodule.c
+END
+Setup.dist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/Setup.dist
+END
+termios.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/termios.c
+END
+readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/readline.c
+END
+bsddb.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/bsddb.h
+END
+arraymodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/arraymodule.c
+END
+yuvconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/yuvconvert.c
+END
+_randommodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_randommodule.c
+END
+ld_so_aix.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/ld_so_aix.in
+END
+selectmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/selectmodule.c
+END
+syslogmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/syslogmodule.c
+END
+_hotshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_hotshot.c
+END
+ld_so_beos
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/ld_so_beos
+END
+_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_math.c
+END
+ar_beos
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/ar_beos
+END
+unicodedata_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/unicodedata_db.h
+END
+operator.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/operator.c
+END
+getnameinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/getnameinfo.c
+END
+timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/timing.h
+END
+zipimport.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/zipimport.c
+END
+_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_math.h
+END
+cStringIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cStringIO.c
+END
+timemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/timemodule.c
+END
+_codecsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_codecsmodule.c
+END
+zlibmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/zlibmodule.c
+END
+flmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/flmodule.c
+END
+fmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/fmmodule.c
+END
+cgensupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cgensupport.c
+END
+config.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/config.c.in
+END
+imgfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/imgfile.c
+END
+threadmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/threadmodule.c
+END
+stropmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/stropmodule.c
+END
+cgensupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cgensupport.h
+END
+_bisectmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_bisectmodule.c
+END
+fpetestmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/fpetestmodule.c
+END
+python.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/python.c
+END
+binascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/binascii.c
+END
+imageop.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/imageop.c
+END
+signalmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/signalmodule.c
+END
+_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_struct.c
+END
+_weakref.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_weakref.c
+END
+bsddbmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/bsddbmodule.c
+END
+tkinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/tkinter.h
+END
+resource.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/resource.c
+END
+Setup.config.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/Setup.config.in
+END
+_sre.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_sre.c
+END
+pyexpat.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/pyexpat.c
+END
+addrinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/addrinfo.h
+END
+errnomodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/errnomodule.c
+END
+cdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cdmodule.c
+END
+gcmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/gcmodule.c
+END
+audioop.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/audioop.c
+END
+pwdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/pwdmodule.c
+END
+testcapi_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/testcapi_long.h
+END
+cmathmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cmathmodule.c
+END
+parsermodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/parsermodule.c
+END
+clmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/clmodule.c
+END
+cryptmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cryptmodule.c
+END
+_elementtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_elementtree.c
+END
+glmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/glmodule.c
+END
+posixmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/posixmodule.c
+END
+_cursesmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_cursesmodule.c
+END
+cPickle.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cPickle.c
+END
+xxsubtype.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/xxsubtype.c
+END
+getbuildinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/getbuildinfo.c
+END
+fcntlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/fcntlmodule.c
+END
+sha256module.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/sha256module.c
+END
+linuxaudiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/linuxaudiodev.c
+END
+_testcapimodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_testcapimodule.c
+END
+puremodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/puremodule.c
+END
+_functoolsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_functoolsmodule.c
+END
+cstubs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/cstubs
+END
+_collectionsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_collectionsmodule.c
+END
+future_builtins.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/future_builtins.c
+END
+spwdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/spwdmodule.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/main.c
+END
+ossaudiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/ossaudiodev.c
+END
+symtablemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/symtablemodule.c
+END
+sunaudiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/sunaudiodev.c
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/getaddrinfo.c
+END
+_hashopenssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_hashopenssl.c
+END
+_csv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_csv.c
+END
+itertoolsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/itertoolsmodule.c
+END
+gc_weakref.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/gc_weakref.txt
+END
+md5module.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/md5module.c
+END

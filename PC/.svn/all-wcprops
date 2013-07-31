@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/empty.c
+END
+make_versioninfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/make_versioninfo.c
+END
+testpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/testpy.py
+END
+dl_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/dl_nt.c
+END
+icons.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/icons.mak
+END
+WinMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/WinMain.c
+END
+frozen_dllmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/frozen_dllmain.c
+END
+python_exe.rc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/python_exe.rc
+END
+dllbase_nt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/dllbase_nt.txt
+END
+python_nt.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/python_nt.rc
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/config.c
+END
+python.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/python.mk
+END
+winsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/winsound.c
+END
+import_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/import_nt.c
+END
+errmap.mak
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/errmap.mak
+END
+getpathp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/getpathp.c
+END
+generrmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/generrmap.c
+END
+py.ico
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/py.ico
+END
+pycon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/pycon.ico
+END
+pyc.ico
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/pyc.ico
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/pyconfig.h
+END
+msvcrtmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/msvcrtmodule.c
+END
+_subprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/_subprocess.c
+END
+_msi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/_msi.c
+END
+w9xpopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/w9xpopen.c
+END
+_winreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/_winreg.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/readme.txt
+END
+errmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/errmap.h
+END
+icons.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/icons.rc
+END

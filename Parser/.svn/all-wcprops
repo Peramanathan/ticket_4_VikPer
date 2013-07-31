@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser
+END
+acceler.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/acceler.c
+END
+pgenmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/pgenmain.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/parser.h
+END
+printgrammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/printgrammar.c
+END
+grammar1.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/grammar1.c
+END
+intrcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/intrcheck.c
+END
+tokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/tokenizer.c
+END
+tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/tokenizer.h
+END
+listnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/listnode.c
+END
+Python.asdl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/Python.asdl
+END
+tokenizer_pgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/tokenizer_pgen.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/node.c
+END
+grammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/grammar.c
+END
+firstsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/firstsets.c
+END
+spark.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/spark.py
+END
+parsetok.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/parsetok.c
+END
+myreadline.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/myreadline.c
+END
+asdl.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/asdl.py
+END
+pgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/pgen.c
+END
+bitset.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/bitset.c
+END
+asdl_c.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/asdl_c.py
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/parser.c
+END
+metagrammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Parser/metagrammar.c
+END

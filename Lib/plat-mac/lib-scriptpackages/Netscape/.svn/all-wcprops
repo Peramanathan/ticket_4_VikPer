@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape
+END
+Required_suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/Required_suite.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/Standard_Suite.py
+END
+PowerPlant.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/PowerPlant.py
+END
+Standard_URL_suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/Standard_URL_suite.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/__init__.py
+END
+Mozilla_suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/Mozilla_suite.py
+END
+Text.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/Text.py
+END
+WorldWideWeb_suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Netscape/WorldWideWeb_suite.py
+END

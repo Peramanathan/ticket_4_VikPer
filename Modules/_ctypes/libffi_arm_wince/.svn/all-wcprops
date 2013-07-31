@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince
+END
+fficonfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/fficonfig.h
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/ffitarget.h
+END
+ffi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/ffi_common.h
+END
+sysv.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/sysv.asm
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/ffi.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/debug.c
+END
+prep_cif.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/prep_cif.c
+END
+ffi.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_arm_wince/ffi.h
+END

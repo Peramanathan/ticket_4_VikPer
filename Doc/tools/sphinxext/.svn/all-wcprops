@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/layout.html
+END
+indexsidebar.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/indexsidebar.html
+END
+indexcontent.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/indexcontent.html
+END
+pyspecific.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/pyspecific.py
+END
+opensearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/opensearch.xml
+END
+susp-ignored.csv
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/susp-ignored.csv
+END
+download.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/download.html
+END
+suspicious.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/suspicious.py
+END
+patchlevel.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinxext/patchlevel.py
+END

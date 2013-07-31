@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools
+END
+roman.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/roman.py
+END
+rstlint.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/rstlint.py
+END
+dailybuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/dailybuild.py
+END
+sphinx-build.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Doc/tools/sphinx-build.py
+END

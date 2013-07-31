@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing/semaphore.c
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing/connection.h
+END
+multiprocessing.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing/multiprocessing.c
+END
+socket_connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing/socket_connection.c
+END
+win32_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing/win32_functions.c
+END
+multiprocessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing/multiprocessing.h
+END
+pipe_connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_multiprocessing/pipe_connection.c
+END

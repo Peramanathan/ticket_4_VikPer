@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/alpha
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/alpha/ffitarget.h
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/alpha/ffi.c
+END
+osf.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/alpha/osf.S
+END

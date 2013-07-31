@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze
+END
+extensions_win32.ini
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/extensions_win32.ini
+END
+winmakemakefile.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/winmakemakefile.py
+END
+makemakefile.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/makemakefile.py
+END
+parsesetup.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/parsesetup.py
+END
+bkfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/bkfile.py
+END
+checkextensions.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/checkextensions.py
+END
+makefreeze.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/makefreeze.py
+END
+win32.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/win32.html
+END
+checkextensions_win32.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/checkextensions_win32.py
+END
+freeze.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/freeze.py
+END
+hello.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/hello.py
+END
+makeconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/makeconfig.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/freeze/README
+END

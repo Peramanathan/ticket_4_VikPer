@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler
+END
+compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/compile.py
+END
+ACKS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/ACKS
+END
+ast.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/ast.txt
+END
+regrtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/regrtest.py
+END
+astgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/astgen.py
+END
+dumppyc.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/dumppyc.py
+END
+demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/demo.py
+END
+stacktest.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/stacktest.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/compiler/README
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3
+END
+pytree.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/pytree.py
+END
+fixer_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/fixer_util.py
+END
+PatternGrammar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/PatternGrammar.txt
+END
+Grammar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/Grammar.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/__init__.py
+END
+pygram.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/pygram.py
+END
+__main__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/__main__.py
+END
+btm_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/btm_utils.py
+END
+patcomp.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/patcomp.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/main.py
+END
+refactor.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/refactor.py
+END
+btm_matcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/btm_matcher.py
+END
+fixer_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/fixer_base.py
+END

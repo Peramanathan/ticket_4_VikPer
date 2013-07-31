@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/include
+END
+fficonfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/include/fficonfig.h
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/include/ffitarget.h
+END
+ppc-ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/include/ppc-ffitarget.h
+END
+ffi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/include/ffi_common.h
+END
+x86-ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/include/x86-ffitarget.h
+END
+ffi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/include/ffi.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/LICENSE
+END
+README.pyobjc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/README.pyobjc
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/ffi.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/types.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/README
+END

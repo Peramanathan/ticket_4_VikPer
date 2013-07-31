@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib-tk/test/test_tkinter
+END
+test_loadtk.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib-tk/test/test_tkinter/test_loadtk.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib-tk/test/test_tkinter/__init__.py
+END
+test_text.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib-tk/test/test_tkinter/test_text.py
+END

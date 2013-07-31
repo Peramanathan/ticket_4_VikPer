@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc
+END
+fficonfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/fficonfig.h
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/ffitarget.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/LICENSE
+END
+ffi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/ffi_common.h
+END
+README.ctypes
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/README.ctypes
+END
+win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/win32.c
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/ffi.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/types.c
+END
+win64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/win64.asm
+END
+prep_cif.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/prep_cif.c
+END
+ffi.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/ffi.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_msvc/README
+END

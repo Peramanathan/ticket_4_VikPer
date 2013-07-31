@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/Modules/evt
+END
+evtsupport.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/Modules/evt/evtsupport.py
+END
+_Evtmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/Modules/evt/_Evtmodule.c
+END
+evtscan.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/Modules/evt/evtscan.py
+END
+evtedit.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/Modules/evt/evtedit.py
+END

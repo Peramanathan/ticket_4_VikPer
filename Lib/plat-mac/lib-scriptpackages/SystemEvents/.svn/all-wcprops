@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Standard_Suite.py
+END
+Disk_Folder_File_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Disk_Folder_File_Suite.py
+END
+Text_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Text_Suite.py
+END
+Processes_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Processes_Suite.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/__init__.py
+END
+System_Events_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/System_Events_Suite.py
+END
+Login_Items_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Login_Items_Suite.py
+END
+Folder_Actions_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Folder_Actions_Suite.py
+END
+Hidden_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Hidden_Suite.py
+END
+Power_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/SystemEvents/Power_Suite.py
+END

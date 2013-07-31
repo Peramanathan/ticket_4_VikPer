@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Demo/comparisons
+END
+patterns
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Demo/comparisons/patterns
+END
+regextest.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Demo/comparisons/regextest.py
+END
+systemtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Demo/comparisons/systemtest.py
+END
+sortingtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Demo/comparisons/sortingtest.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Demo/comparisons/README
+END

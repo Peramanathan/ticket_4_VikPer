@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx
+END
+pythonpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/pythonpm.c
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/pyconfig.h
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/config.c
+END
+dlfcn.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/dlfcn.c
+END
+python27.def
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/python27.def
+END
+README.os2emx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/README.os2emx
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/dlfcn.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/Makefile
+END
+getpathp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/getpathp.c
+END
+dllentry.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/PC/os2emx/dllentry.c
+END

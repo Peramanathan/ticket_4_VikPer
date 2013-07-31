@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes
+END
+callproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/callproc.c
+END
+callbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/callbacks.c
+END
+stgdict.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/stgdict.c
+END
+libffi.diff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi.diff
+END
+ctypes_dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/ctypes_dlfcn.h
+END
+malloc_closure.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/malloc_closure.c
+END
+_ctypes_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/_ctypes_test.c
+END
+_ctypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/_ctypes.c
+END
+cfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/cfield.c
+END
+_ctypes_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/_ctypes_test.h
+END
+ctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/ctypes.h
+END

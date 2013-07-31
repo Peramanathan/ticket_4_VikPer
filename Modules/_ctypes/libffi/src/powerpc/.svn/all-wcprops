@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc
+END
+ppc_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/ppc_closure.S
+END
+darwin_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/darwin_closure.S
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/ffitarget.h
+END
+aix.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/aix.S
+END
+darwin.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/darwin.S
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/ffi.c
+END
+sysv.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/sysv.S
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/asm.h
+END
+linux64_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/linux64_closure.S
+END
+ffi_darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/ffi_darwin.c
+END
+linux64.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/linux64.S
+END
+aix_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi/src/powerpc/aix_closure.S
+END

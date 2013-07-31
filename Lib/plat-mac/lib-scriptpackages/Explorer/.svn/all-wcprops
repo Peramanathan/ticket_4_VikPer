@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer
+END
+Required_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer/Required_Suite.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer/Standard_Suite.py
+END
+Web_Browser_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer/Web_Browser_Suite.py
+END
+Netscape_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer/Netscape_Suite.py
+END
+URL_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer/URL_Suite.py
+END
+Microsoft_Internet_Explorer.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer/Microsoft_Internet_Explorer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Explorer/__init__.py
+END

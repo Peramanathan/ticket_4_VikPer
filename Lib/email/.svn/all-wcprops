@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email
+END
+header.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/header.py
+END
+charset.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/charset.py
+END
+base64mime.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/base64mime.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/parser.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/errors.py
+END
+iterators.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/iterators.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/utils.py
+END
+feedparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/feedparser.py
+END
+encoders.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/encoders.py
+END
+_parseaddr.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/_parseaddr.py
+END
+message.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/message.py
+END
+generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/generator.py
+END
+quoprimime.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/email/quoprimime.py
+END

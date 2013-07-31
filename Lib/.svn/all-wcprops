@@ -1,0 +1,1241 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib
+END
+fractions.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/fractions.py
+END
+rlcompleter.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/rlcompleter.py
+END
+genericpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/genericpath.py
+END
+CGIHTTPServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/CGIHTTPServer.py
+END
+sgmllib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sgmllib.py
+END
+markupbase.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/markupbase.py
+END
+os2emxpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/os2emxpath.py
+END
+dircache.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/dircache.py
+END
+wave.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/wave.py
+END
+nturl2path.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/nturl2path.py
+END
+site.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/site.py
+END
+UserString.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/UserString.py
+END
+symbol.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/symbol.py
+END
+__future__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/__future__.py
+END
+copy_reg.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/copy_reg.py
+END
+asynchat.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/asynchat.py
+END
+sha.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sha.py
+END
+stat.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/stat.py
+END
+mimetypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/mimetypes.py
+END
+SimpleHTTPServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/SimpleHTTPServer.py
+END
+pipes.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pipes.py
+END
+token.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/token.py
+END
+os.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/os.py
+END
+sndhdr.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sndhdr.py
+END
+smtpd.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/smtpd.py
+END
+_abcoll.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/_abcoll.py
+END
+xmlrpclib.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/xmlrpclib.py
+END
+optparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/optparse.py
+END
+py_compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/py_compile.py
+END
+audiodev.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/audiodev.py
+END
+threading.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/threading.py
+END
+stringold.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/stringold.py
+END
+getpass.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/getpass.py
+END
+uuid.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/uuid.py
+END
+whichdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/whichdb.py
+END
+dumbdbm.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/dumbdbm.py
+END
+smtplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/smtplib.py
+END
+tabnanny.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/tabnanny.py
+END
+imaplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/imaplib.py
+END
+fpformat.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/fpformat.py
+END
+textwrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/textwrap.py
+END
+user.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/user.py
+END
+posixpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/posixpath.py
+END
+quopri.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/quopri.py
+END
+symtable.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/symtable.py
+END
+DocXMLRPCServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/DocXMLRPCServer.py
+END
+pdb.doc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pdb.doc
+END
+glob.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/glob.py
+END
+shelve.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/shelve.py
+END
+xmllib.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/xmllib.py
+END
+tokenize.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/tokenize.py
+END
+warnings.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/warnings.py
+END
+sunau.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sunau.py
+END
+ntpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/ntpath.py
+END
+_weakrefset.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/_weakrefset.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/formatter.py
+END
+htmlentitydefs.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/htmlentitydefs.py
+END
+re.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/re.py
+END
+_strptime.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/_strptime.py
+END
+mailcap.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/mailcap.py
+END
+wsgiref.egg-info
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/wsgiref.egg-info
+END
+calendar.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/calendar.py
+END
+bisect.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bisect.py
+END
+gzip.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/gzip.py
+END
+copy.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/copy.py
+END
+netrc.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/netrc.py
+END
+pty.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pty.py
+END
+modulefinder.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/modulefinder.py
+END
+macpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/macpath.py
+END
+SocketServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/SocketServer.py
+END
+ftplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/ftplib.py
+END
+fnmatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/fnmatch.py
+END
+random.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/random.py
+END
+asyncore.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/asyncore.py
+END
+shlex.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/shlex.py
+END
+base64.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/base64.py
+END
+struct.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/struct.py
+END
+pickletools.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pickletools.py
+END
+socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/socket.py
+END
+ihooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/ihooks.py
+END
+stringprep.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/stringprep.py
+END
+heapq.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/heapq.py
+END
+atexit.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/atexit.py
+END
+decimal.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/decimal.py
+END
+difflib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/difflib.py
+END
+cookielib.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/cookielib.py
+END
+BaseHTTPServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/BaseHTTPServer.py
+END
+getopt.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/getopt.py
+END
+inspect.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/inspect.py
+END
+string.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/string.py
+END
+mimetools.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/mimetools.py
+END
+shutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/shutil.py
+END
+imghdr.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/imghdr.py
+END
+anydbm.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/anydbm.py
+END
+numbers.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/numbers.py
+END
+runpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/runpy.py
+END
+collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/collections.py
+END
+traceback.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/traceback.py
+END
+dummy_threading.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/dummy_threading.py
+END
+compileall.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/compileall.py
+END
+webbrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/webbrowser.py
+END
+weakref.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/weakref.py
+END
+abc.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/abc.py
+END
+sched.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sched.py
+END
+ast.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/ast.py
+END
+pyclbr.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pyclbr.py
+END
+csv.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/csv.py
+END
+commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/commands.py
+END
+__phello__.foo.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/__phello__.foo.py
+END
+robotparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/robotparser.py
+END
+posixfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/posixfile.py
+END
+cgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/cgi.py
+END
+tempfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/tempfile.py
+END
+pdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pdb.py
+END
+nntplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/nntplib.py
+END
+io.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/io.py
+END
+chunk.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/chunk.py
+END
+opcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/opcode.py
+END
+Cookie.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/Cookie.py
+END
+pydoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pydoc.py
+END
+pstats.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pstats.py
+END
+_pyio.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/_pyio.py
+END
+macurl2path.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/macurl2path.py
+END
+MimeWriter.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/MimeWriter.py
+END
+gettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/gettext.py
+END
+sre_constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sre_constants.py
+END
+md5.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/md5.py
+END
+sunaudio.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sunaudio.py
+END
+sre.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sre.py
+END
+urllib.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/urllib.py
+END
+htmllib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/htmllib.py
+END
+trace.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/trace.py
+END
+Bastion.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/Bastion.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/profile.py
+END
+aifc.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/aifc.py
+END
+cProfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/cProfile.py
+END
+cmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/cmd.py
+END
+sysconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sysconfig.py
+END
+types.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/types.py
+END
+rfc822.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/rfc822.py
+END
+repr.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/repr.py
+END
+code.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/code.py
+END
+contextlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/contextlib.py
+END
+UserDict.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/UserDict.py
+END
+telnetlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/telnetlib.py
+END
+Queue.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/Queue.py
+END
+platform.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/platform.py
+END
+tarfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/tarfile.py
+END
+bdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/bdb.py
+END
+_LWPCookieJar.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/_LWPCookieJar.py
+END
+new.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/new.py
+END
+mimify.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/mimify.py
+END
+statvfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/statvfs.py
+END
+mhlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/mhlib.py
+END
+mailbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/mailbox.py
+END
+_MozillaCookieJar.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/_MozillaCookieJar.py
+END
+StringIO.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/StringIO.py
+END
+fileinput.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/fileinput.py
+END
+ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/ssl.py
+END
+zipfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/zipfile.py
+END
+argparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/argparse.py
+END
+doctest.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/doctest.py
+END
+httplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/httplib.py
+END
+rexec.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/rexec.py
+END
+toaiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/toaiff.py
+END
+codeop.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/codeop.py
+END
+hashlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/hashlib.py
+END
+UserList.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/UserList.py
+END
+linecache.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/linecache.py
+END
+urllib2.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/urllib2.py
+END
+pprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pprint.py
+END
+colorsys.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/colorsys.py
+END
+_threading_local.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/_threading_local.py
+END
+sets.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sets.py
+END
+filecmp.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/filecmp.py
+END
+tty.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/tty.py
+END
+dummy_thread.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/dummy_thread.py
+END
+ConfigParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/ConfigParser.py
+END
+plistlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plistlib.py
+END
+xdrlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/xdrlib.py
+END
+cgitb.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/cgitb.py
+END
+subprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/subprocess.py
+END
+dbhash.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/dbhash.py
+END
+uu.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/uu.py
+END
+multifile.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/multifile.py
+END
+timeit.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/timeit.py
+END
+urlparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/urlparse.py
+END
+locale.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/locale.py
+END
+codecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/codecs.py
+END
+antigravity.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/antigravity.py
+END
+sre_compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sre_compile.py
+END
+mutex.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/mutex.py
+END
+popen2.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/popen2.py
+END
+SimpleXMLRPCServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/SimpleXMLRPCServer.py
+END
+pickle.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pickle.py
+END
+this.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/this.py
+END
+hmac.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/hmac.py
+END
+functools.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/functools.py
+END
+binhex.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/binhex.py
+END
+dis.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/dis.py
+END
+pkgutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/pkgutil.py
+END
+HTMLParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/HTMLParser.py
+END
+imputil.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/imputil.py
+END
+sre_parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/sre_parse.py
+END
+keyword.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/keyword.py
+END
+poplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/poplib.py
+END

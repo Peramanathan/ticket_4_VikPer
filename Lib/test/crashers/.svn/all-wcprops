@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers
+END
+nasty_eq_vs_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/nasty_eq_vs_dict.py
+END
+borrowed_ref_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/borrowed_ref_1.py
+END
+borrowed_ref_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/borrowed_ref_2.py
+END
+recursive_call.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/recursive_call.py
+END
+bogus_code_obj.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/bogus_code_obj.py
+END
+compiler_recursion.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/compiler_recursion.py
+END
+loosing_mro_ref.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/loosing_mro_ref.py
+END
+gc_inspection.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/gc_inspection.py
+END
+infinite_loop_re.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/infinite_loop_re.py
+END
+mutation_inside_cyclegc.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/mutation_inside_cyclegc.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/README
+END
+gc_has_finalizer.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/gc_has_finalizer.py
+END
+recursion_limit_too_high.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/test/crashers/recursion_limit_too_high.py
+END

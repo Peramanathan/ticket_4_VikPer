@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot
+END
+clean-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/clean-amd64.bat
+END
+external-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/external-amd64.bat
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/build.bat
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/test.bat
+END
+README.tcltk-AMD64
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/README.tcltk-AMD64
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/clean.bat
+END
+external.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/external.bat
+END
+build-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/build-amd64.bat
+END
+buildmsi.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/buildmsi.bat
+END
+external-common.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/external-common.bat
+END
+test-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/buildbot/test-amd64.bat
+END

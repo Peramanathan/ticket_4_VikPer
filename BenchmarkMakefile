@@ -1,0 +1,19 @@
+#
+# A Makefile to perform benchmarking for
+#   Large Scale Programming - Ticket 4
+#
+# Author: Viktor 'vglocus' Gerdin
+#
+
+all: testcode benchmark
+
+testcode: buildcode
+	./python.exe ./test/testcode.py
+
+benchmark: buildcode
+	time ./python.exe ./test/timetest1.py
+	time ./python.exe ./test/timetest2.py
+
+buildcode:
+	make all
+	

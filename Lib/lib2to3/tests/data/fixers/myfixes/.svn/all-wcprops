@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/tests/data/fixers/myfixes
+END
+fix_preorder.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/tests/data/fixers/myfixes/fix_preorder.py
+END
+fix_last.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/tests/data/fixers/myfixes/fix_last.py
+END
+fix_first.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/tests/data/fixers/myfixes/fix_first.py
+END
+fix_parrot.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/tests/data/fixers/myfixes/fix_parrot.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/tests/data/fixers/myfixes/__init__.py
+END
+fix_explicit.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/lib2to3/tests/data/fixers/myfixes/fix_explicit.py
+END

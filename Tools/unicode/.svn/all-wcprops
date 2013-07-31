@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode
+END
+listcodecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/listcodecs.py
+END
+makeunicodedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/makeunicodedata.py
+END
+gencjkcodecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/gencjkcodecs.py
+END
+genwincodec.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/genwincodec.py
+END
+mkstringprep.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/mkstringprep.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/Makefile
+END
+genwincodecs.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/genwincodecs.bat
+END
+comparecodecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/comparecodecs.py
+END
+gencodec.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/unicode/gencodec.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder
+END
+Finder_items.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Finder_items.py
+END
+Enumerations.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Enumerations.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Standard_Suite.py
+END
+Finder_Basics.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Finder_Basics.py
+END
+Type_Definitions.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Type_Definitions.py
+END
+Legacy_suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Legacy_suite.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/__init__.py
+END
+Files.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Files.py
+END
+Window_classes.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Window_classes.py
+END
+Containers_and_folders.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Lib/plat-mac/lib-scriptpackages/Finder/Containers_and_folders.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/faqwiz
+END
+faqconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/faqwiz/faqconf.py
+END
+faqw.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/faqwiz/faqw.py
+END
+faqwiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/faqwiz/faqwiz.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/faqwiz/README
+END
+faqcust.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/faqwiz/faqcust.py
+END
+move-faqwiz.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/faqwiz/move-faqwiz.sh
+END

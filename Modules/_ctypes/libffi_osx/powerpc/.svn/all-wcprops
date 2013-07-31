@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/powerpc
+END
+ppc-darwin_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/powerpc/ppc-darwin_closure.S
+END
+ppc-darwin.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/powerpc/ppc-darwin.S
+END
+ppc-ffi_darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/powerpc/ppc-ffi_darwin.c
+END
+ppc-darwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/powerpc/ppc-darwin.h
+END
+ppc64-darwin_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Modules/_ctypes/libffi_osx/powerpc/ppc64-darwin_closure.S
+END

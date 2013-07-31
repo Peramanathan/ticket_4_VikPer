@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen
+END
+bgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgen.py
+END
+bgenObjectDefinition.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenObjectDefinition.py
+END
+bgenStackBuffer.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenStackBuffer.py
+END
+bgenOutput.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenOutput.py
+END
+bgenStringBuffer.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenStringBuffer.py
+END
+bgenType.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenType.py
+END
+macsupport.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/macsupport.py
+END
+bgenGeneratorGroup.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenGeneratorGroup.py
+END
+bgenModule.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenModule.py
+END
+bgenVariable.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenVariable.py
+END
+bgenGenerator.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenGenerator.py
+END
+bgenHeapBuffer.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenHeapBuffer.py
+END
+bgenBuffer.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/bgenBuffer.py
+END
+scantools.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Tools/bgen/bgen/scantools.py
+END

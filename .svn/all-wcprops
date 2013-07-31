@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/configure
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/LICENSE
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/configure.in
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/setup.py
+END
+Makefile.pre.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Makefile.pre.in
+END
+BenchmarkMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/BenchmarkMakefile
+END
+pyconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/pyconfig.h.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/README
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/install-sh
+END

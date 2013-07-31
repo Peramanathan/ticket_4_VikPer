@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test
+END
+inheritance.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test/inheritance.py
+END
+testcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test/testcode.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test/test.py
+END
+timetest1.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test/timetest1.py
+END
+timer.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test/timer.py
+END
+timetest2.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test/timetest2.py
+END
+class.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/storprog_11_1/!svn/ver/206/branches/ticket_4_VikPer/test/class.py
+END

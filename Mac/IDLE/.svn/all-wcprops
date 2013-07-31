@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/IDLE
+END
+config-extensions.def
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/IDLE/config-extensions.def
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/IDLE/Makefile.in
+END
+config-main.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/IDLE/config-main.def
+END
+idlemain.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/IDLE/idlemain.py
+END
+Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/storprog_11_1/!svn/ver/150/branches/ticket_4_VikPer/Mac/IDLE/Info.plist.in
+END
